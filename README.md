@@ -1,2 +1,8 @@
-# bootcamp-mobile-dio
-Repositório de conteúdo e soluções de desafios do Santander Bootcamp Mobile Developer 
+#  Santander Bootcamp Mobile Developer
+
+## Utilizando a plataforma da [Dio](https://www.dio.me/) para adquirir conhecimento sobre esse vasto mundo de programação.
+
+
+- ### Anotações
+[Módulo 1](./modulos/modulo_1.md)
+

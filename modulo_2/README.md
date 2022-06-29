@@ -3,5 +3,10 @@
 
 - ## Cursos
     [**Introdução ao Kotlin**](./cursos/curso_1.md)
-    
+
     [**...**](./cursos/curso_2.md)
+- ## Code
+    [**Introdução ao Kotlin**](./cursos/codigo_curso1.kt)
+
+    [**Calculadora**](...)
+

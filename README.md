@@ -9,3 +9,6 @@
 [Módulo II](./modulo_2)
 
 - ### Desafios
+
+- ### Exercícios
+[Calculadora 🧮 ](./modulo_2/cursos/calculadora.kt)

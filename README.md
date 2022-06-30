@@ -4,11 +4,13 @@
 
 
 - ### Anotações
-[Módulo I](./modulo_1)
+    - [Módulo I](./modulo_1)
 
-[Módulo II](./modulo_2)
+    - [Módulo II](./modulo_2)
 
 - ### Desafios
 
 - ### Exercícios
-[Calculadora 🧮 ](./modulo_2/cursos/calculadora.kt)
+    - [Calculadora 🧮 ](./modulo_2/cursos/calculadora.kt)
+
+    - [Projeto 📚 ](https://github.com/thaisperlho/digitalinnovaton-project)

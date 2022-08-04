@@ -14,6 +14,8 @@
 
     [**Java e Kotlin Juntos1? Construindo Apps Android**](./cursos/curso_6.md)
 
+     [**Explrorando o Firebase Para Apps Android Resilientes**](./cursos/curso_7.md)
+
 - ## Code
     [**Introdução ao Kotlin**](./cursos/codigo_curso1.kt)
 

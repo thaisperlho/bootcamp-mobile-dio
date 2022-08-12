@@ -23,3 +23,10 @@
 
     [**Projeto** 📚 ](https://github.com/thaisperlho/digitalinnovaton-project)
 
+- ## Desafios
+    [**Calculadora** 🧮](./cursos/calculadora.kt)
+
+    [**Projeto** 📚 ](https://github.com/thaisperlho/digitalinnovaton-project)
+
+
+

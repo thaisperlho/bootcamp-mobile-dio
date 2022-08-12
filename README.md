@@ -10,6 +10,9 @@
 
 - ### Desafios
 
+    - [App Soccer News](https://github.com/thaisperlho/Soccer-News)
+
+
 - ### Exercícios
     - [Calculadora 🧮 ](./modulo_2/cursos/calculadora.kt)
 

@@ -4,9 +4,9 @@
 
 
 - ### Anotações
-    - [Módulo I](./modulo_1)
+    - [Módulo I](./modulo_I)
 
-    - [Módulo II](./modulo_2)
+    - [Módulo II](./modulo_II)
 
 - ### Desafios
 
